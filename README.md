@@ -1,4 +1,5 @@
-# Hi there, I'm Aditi Singh 👋
+# Hi there, I'm Aditi Singh (Thakur) 👋
+> Certificate are issued as **Aditi Thakur** (as per Hacktoberfest registration).
 
 ### 🎓 Chandigarh University | 💻 AI & Open Source Enthusiast | 🇮🇳 India
 
