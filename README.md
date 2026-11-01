@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Aditi Singh 👋
 
-<!--
-**aditisingh495/aditisingh495** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Chandigarh University | 💻 AI & Open Source Enthusiast | 🇮🇳 India
 
-Here are some ideas to get you started:
+Motivated and technology-focused student with a strong interest in Artificial Intelligence, problem-solving, and emerging technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🏆 Hacktoberfest 2026
+
+**Powered by MLH, DEV & DigitalOcean**
+
+Completed Hacktoberfest 2026 with all milestones + extra DEV Challenges & Global Hack Week.
+Built **GhostNote AI** - Some stories refuse to disappear.
+
+📜 [Completionist++ Certificate](hacktoberfest-2026-completionist-plus-plus-certificate-2026%20%281%29.pdf)
+📜 [Completionist Certificate](hacktoberfest-2026-completionist-certificate-2026.pdf)
+📜 [Fest Certificate](hacktoberfest-2026-fest-certificate-2026-01a0f6f9-8891-f284-932e-3814bb220b8c.pdf)
+
+---
+
+## 🚀 My Projects
+
+- **👻 GhostNote-AI** - Some stories refuse to disappear
+- **🌿 GREEN-QUEST-AI** - Less Scrolling, More Sky!
+- **🤖 LazyMateAI** - Your AI Mate
+
+---
+
+## 🛠️ Tech I Use
+`JavaScript` `HTML` `CSS` `Python` `AI` `GitHub`
